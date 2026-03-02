@@ -24,12 +24,11 @@ To deploy a scalable application on Kubernetes, perform rolling updates, rollbac
             |
         Service IP
             |
-   Kubernetes Cluster (Minikube)
+       Kubernetes Cluster (Minikube)
             |
        Deployment → ReplicaSet
             |
        Pods (Nginx containers)
-
 
 ## Outcome
 - Successfully deployed a scalable Kubernetes workload
